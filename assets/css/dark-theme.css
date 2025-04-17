@@ -175,7 +175,7 @@ input:checked + .slider:before {
 .theme-dark a:hover,
 .theme-dark .link.style1,
 .theme-dark article p strong, .theme-dark .terms-wrap p strong {
-  color: #00A79D !important;
+  color: #002366 !important;
 }
 .theme-dark .breadcrumb-title h2,
 .theme-dark .convert-box .convert-tabcontent .form-group input::Placeholder,
@@ -246,7 +246,7 @@ input:checked + .slider:before {
   background-color: rgba(255, 255, 255, 0.1);
 }
 .theme-dark .convert-box .convert-tablist .nav-item a.active {
-  background-color: #00A79D;
+  background-color: #002366;
   color: #fff;
 }
 .theme-dark .partner-item img {
@@ -311,15 +311,15 @@ input:checked + .slider:before {
 }
 .theme-dark .category-box ul li a:hover {
   color: #fff !important;
-  background-color: #00A79D;
+  background-color: #002366;
 }
 .theme-dark .tag-list li a {
   background: transparent !important;
   border: 1px solid rgba(255, 255, 255, 0.2);
-  color: #00A79D;
+  color: #002366;
 }
 .theme-dark .tag-list li a:hover {
-  background: #00A79D !important;
+  background: #002366 !important;
   border-color: transparent;
   color: #fff !important;
 }
@@ -337,7 +337,7 @@ input:checked + .slider:before {
   color: #fff;
 }
 .theme-dark .page-nav li a.active, .theme-dark .page-nav li a:hover {
-  background-color: #00A79D;
+  background-color: #002366;
   color: #fff;
 }
 .theme-dark .page-nav li a.active i, .theme-dark .page-nav li a:hover i {
@@ -356,7 +356,7 @@ input:checked + .slider:before {
 .theme-dark .contact-us-wrap .contact-item .contact-icon:hover,
 .theme-dark .accordion-item .accordion-header .accordion-button span:hover,
 .theme-dark .hero-wrap.style3 .hero-content .hero-btn .play-video .play-now:hover {
-  background-color: #00A79D;
+  background-color: #002366;
 }
 .theme-dark .footer-wrap .footer-widget .social-profile li a:hover i,
 .theme-dark .social-profile.style1 li a:hover i,
@@ -397,7 +397,7 @@ input:checked + .slider:before {
     color: #fff;
   }
   .theme-dark .header-wrap .navbar .navbar-nav .nav-item a.active {
-    color: #00A79D !important;
+    color: #002366 !important;
   }
   .theme-dark .main-menu li a.active,
   .theme-dark .main-menu li a {
@@ -410,6 +410,6 @@ input:checked + .slider:before {
     background-color: #111828;
   }
   .theme-dark .header-wrap .navbar .navbar-nav .nav-item .nav-link.active {
-    color: #00A79D !important;
+    color: #002366 !important;
   }
 }/*# sourceMappingURL=dark-theme.css.map */
